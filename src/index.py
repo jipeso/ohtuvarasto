@@ -55,6 +55,6 @@ def main():
         "\nmehua.otaVarastosta(-32.9)"
         f"saatiin {saatiin_mehua}"
         f"\nMehuvarasto: {mehua}"
-    ) 
+    )
 if __name__ == "__main__":
     main()
